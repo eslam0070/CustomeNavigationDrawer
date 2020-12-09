@@ -1,0 +1,2 @@
+rootProject.name = "Custome NavigationDrawer"
+include ':app'
